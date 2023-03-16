@@ -1,0 +1,37 @@
+button {
+    background-color: lime;
+    font-family:Times New Roman;
+    border-radius: 15px;
+    height: 50px;  
+    font-size: 30px;         
+}
+
+body {
+    text-align:center ;
+}
+
+#btn1 {
+text-align: right;
+}
+
+#sec {
+    text-align: right;    
+}
+
+h2 {
+    display: none;
+}
+
+#btn2 {
+    display: none;
+}
+
+#btn3, #p {
+    display: none;
+
+}
+
+#img {
+    display: none;
+}
+
